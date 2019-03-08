@@ -1,0 +1,33 @@
+.nav {
+    border: 1px black solid;
+    font-weight: bold;
+    margin: 2em;
+    margin-top: 2em;   
+    width: 120px;
+    height: 100%;
+    position: absolute;
+}
+
+#headline {
+    text-align: center;
+}
+
+.cardBody {
+    margin: 10px;
+    text-align: center;
+}
+
+
+.cardStyle {
+    width: 30em;
+}
+
+.titles {
+    margin-left: 22em;
+}
+
+.pageBody {
+   box-align: border-box;
+   position: relative;
+}
+
